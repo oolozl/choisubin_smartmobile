@@ -3,3 +3,7 @@
 
 # Week2_Homework DAY2
 #### => modified 된 file의 GitHub 화면 capture https://user-images.githubusercontent.com/79950569/110744252-b5a55900-827c-11eb-9ece-755e65ecaebc.PNG
+
+# Week3_Homework DAY1
+#### =>LifeCycle 확인 동영상 제작 https://youtu.be/kT9jq0FVbwc
+
