@@ -17,5 +17,12 @@
 # Week4_Homework DAY2
 #### => Responding to a button click https://github.com/oolozl/ButtonApp325/commit/ab4f250bc46b7cc9c1e850c13ed869b101032632
 <br>
+
 # Week5_Homework DAY1
-#### => In-class homework: Week 5 Day 1 File 1 #1“Inner class implementation 1 (with "this")” https://github.com/oolozl/BtnWilnnerClass/commit/876a9f435d675d00c31ec509c4aa25e7dafcbe6f
+#### => In-class homework: Week 5 Day 1 File 1 #1“Inner class implementation 1 (with "this")” https://github.com/oolozl/BtnWilnnerClass/commit/876a9f435d675d00c31ec509c4aa25e7dafcbe6f
+
+#### => In-class homework: Week 5 Day 1 File 1 #2 “Inner class implementation 2 (without "this")”https://github.com/oolozl/BtnWilnnerClass/commit/8b60d735adc4bfcd65fbbaf1cda52f415115c539
+
+#### In-class Homework: Week 5 Day 1 File 1 #3 “Multiple button’s onClickListener”      https://github.com/oolozl/BtnWilnnerClass/commit/a280cc31ecf81cb7aa03b28985e07b9e908cda76
+
+
