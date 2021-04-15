@@ -24,5 +24,25 @@
 #### => In-class homework: Week 5 Day 1 File 1 #2 “Inner class implementation 2 (without "this")”https://github.com/oolozl/BtnWilnnerClass/commit/8b60d735adc4bfcd65fbbaf1cda52f415115c539
 
 #### In-class Homework: Week 5 Day 1 File 1 #3 “Multiple button’s onClickListener”      https://github.com/oolozl/BtnWilnnerClass/commit/a280cc31ecf81cb7aa03b28985e07b9e908cda76
+<br>
+# Week6_Homework DAY1
+#### =>In-class homework: Week 6 Day 1 File 1 #1 “Sensor List With ScrollView” https://github.com/oolozl/GetSensorList407/tree/sensorListWiScrollView
+#### =>In-class homework: Week 6 Day 1 File 1 #2 “get sensor list using ScrollView + button”https://github.com/oolozl/GetSensorList407/tree/sensorListingButton
+#### =>In-class homework: Week 6 Day 1 File 1 #3 onClick Outside onCreate https://github.com/oolozl/GetSensorList407/commit/3f00a94e636930807ca699f33c67af3a4bd7c114
+
+# Week6_Homework DAY2
+#### =>In-Class Homework: Week 6 Day 2 File 3 #1 "add button to list location providers"https://github.com/oolozl/LocProviderList/commit/5ddd293a24e6288bcea9f31f604b9802f327377e
+#### =>In-Class Homework: Week 6 Day 2 File 3 #2 Enhanced for loop https://github.com/oolozl/LocProviderList/tree/EhancedForLoop
+
+# Week7_Homework DAY1
+#### =>In-class homework: Week 7 Day 1 File 1 #1 "loc. providers' info" https://github.com/oolozl/LocProviderInfo0414/tree/providersinfo
+#### =>In-class homework: Week 7 Day 1 File 2 #1 "complete onResume" https://github.com/oolozl/BestLOCProvider0414
+
+# Week7_Homework DAY2
+#### =>In-class homework: Week 7 Day 2 File 1 #1 “save power” https://github.com/oolozl/GetOrientation0415/tree/savePower
+#### =>In-class homework: Week 7 Day 2 File 2 #2 “compass + sensors” https://github.com/oolozl/GetOrientation0415/tree/compassWiSensors
+
+
+ 
 
 
