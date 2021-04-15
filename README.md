@@ -24,7 +24,8 @@
 #### => In-class homework: Week 5 Day 1 File 1 #2 “Inner class implementation 2 (without "this")”https://github.com/oolozl/BtnWilnnerClass/commit/8b60d735adc4bfcd65fbbaf1cda52f415115c539
 
 #### In-class Homework: Week 5 Day 1 File 1 #3 “Multiple button’s onClickListener”      https://github.com/oolozl/BtnWilnnerClass/commit/a280cc31ecf81cb7aa03b28985e07b9e908cda76
-<br>
+
+
 # Week6_Homework DAY1
 #### =>In-class homework: Week 6 Day 1 File 1 #1 “Sensor List With ScrollView” https://github.com/oolozl/GetSensorList407/tree/sensorListWiScrollView
 #### =>In-class homework: Week 6 Day 1 File 1 #2 “get sensor list using ScrollView + button”https://github.com/oolozl/GetSensorList407/tree/sensorListingButton
